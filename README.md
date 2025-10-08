@@ -1,12 +1,15 @@
-### Apparel Sales Forecasting & Customer Analytics
+# Apparel Sales Forecasting & Customer Analytics
 
-This project explores sales performance and customer behavior for an apparel retail store.  
-It focuses on uncovering insights around product pricing, brand performance, and customer satisfaction: then prepares the data for forecasting future sales trends.
+This project takes a deep dive into apparel sales and customer patterns to understand what drives performance in a retail setting.  
+It focuses on real business questions: which brands and categories sell best, how prices and discounts affect revenue, and how customer satisfaction links to sales.
 
-**What’s inside:**
-- Clean, step-by-step exploratory data analysis (EDA)
-- Visual insights on pricing, revenue, ratings, and brand performance
-- Feature creation for future modeling (like total revenue, time-based features)
-- Correlation analysis between pricing, discounts, and satisfaction
+**Key highlights:**
+- Complete **data cleaning** and **exploratory data analysis**
+- Detailed visual breakdowns of **pricing trends, customer ratings, and brand performance**
+- Insights into **seasonal demand**, **return behavior**, and **markdown effects**
+- Feature creation for forecasting: total revenue, time-based features (year, month, season)
+- Correlation findings showing how **price**, **discounts**, and **ratings** influence sales
 
-The next phase will include deeper customer insights and sales forecasting models using time series techniques.
+**Next phase:**  
+We’ll move into **sales forecasting**, transforming these insights into predictive models that estimate future revenue trends and help plan inventory and pricing strategies.
+
