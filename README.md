@@ -26,9 +26,9 @@ To make the analysis more interactive, the results were visualized in Tableau th
 📊 **View Interactive Dashboard:**  
 [Apparel Sales Performance Dashboard (2025)](https://public.tableau.com/app/profile/babra.akinyi/viz/ApparelSalesPerformanceDashboard2025/ApparelSalesDashboard)
 
-[![Apparel Sales Performance Dashboard](https://github.com/Babraakinyi/Apparel-Sales-Forecasting/blob/main/dashboard_preview.png)](https://public.tableau.com/app/profile/babra.akinyi/viz/ApparelSalesPerformanceDashboard2025)
+[![Apparel Sales Performance Dashboard](https://raw.githubusercontent.com/BabraAkinyi/Apparel-Sales-Forecasting/main/dashboard_preview.png)](https://public.tableau.com/app/profile/babra.akinyi/viz/ApparelSalesPerformanceDashboard2025)
 
-*(Built in Tableau Public — includes dynamic visuals for trend exploration and forecasting insights.)*
+*(Built in Tableau Public, includes dynamic visuals for trend exploration and forecasting insights.)*
 
 ---
 
